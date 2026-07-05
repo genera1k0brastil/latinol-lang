@@ -1,17 +1,17 @@
 # Sözdizimi / Syntax
 
-Latinol 2.0'da temel cümle sırası **SOV** (Özne — Nesne — Fiil) şeklindedir.
+Latinol 2.0'da temel cümle sırası **SOV** (Özne — Nesne — Fiil) şeklindedir. / The basic word order in Latinol 2.0 is **SOV** (Subject — Object — Verb).
 
-Detaylı gramer kuralları için [grammar.md](grammar.md) dosyasına bakınız.
+Detaylı gramer kuralları için [grammar.md](grammar.md) dosyasına bakınız. / See [grammar.md](grammar.md) for detailed grammar rules.
 
-## Hızlı Referans
+## Hızlı Referans / Quick Reference
 
-| Yapı | Sıra | Örnek |
-|------|------|-------|
-| Bildirim | SOV | homo lunam ama |
-| Soru | SOV + soru kelimesi | quid tu ama? |
-| Olumsuz | SOV + no | homo lunam no ama |
+| Yapı / Structure | Sıra / Order | Örnek / Example |
+|------------------|--------------|-----------------|
+| Bildirim / Statement | SOV | homo lunam ama |
+| Soru / Question | SOV + soru kelimesi / question word | quid tu ama? |
+| Olumsuz / Negative | SOV + no | homo lunam no ama |
 
-## Edat Yerleşimi
+## Edat Yerleşimi / Preposition Placement
 
-Edatlar genellikle ismin önüne gelir (preposition), ancak şiirsel/yaratıcı metinlerde esnekliğe izin verilir.
+Edatlar genellikle ismin önüne gelir (preposition), ancak şiirsel/yaratıcı metinlerde esnekliğe izin verilir. / Prepositions usually precede the noun, but poetic/creative texts allow flexibility.
