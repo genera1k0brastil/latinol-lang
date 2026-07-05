@@ -1,42 +1,19 @@
 # Değişiklik Günlüğü / Changelog
 
-## v2.0 — Nötrleştirilmiş Çekim (2026-07-04)
+## v2.0 — Nötrleştirilmiş Çekim / Neutralized Conjugation (2026-07-04)
 
-### Kırılan Değişiklikler (Breaking Changes)
+### Kırılan Değişiklikler / Breaking Changes
 
-- **Cinsiyet sistemi tamamen kaldırıldı.**  
-  İsimler doğal son eklerini korur, ancak bu artık "cinsiyet" değil, sadece "isim sonu" olarak işlev görür. Sıfatlar tek formda (invariant) kullanılır.
+- **Cinsiyet sistemi tamamen kaldırıldı. / Gender system fully removed.**
+- **Fiil çekimi sadeleştirildi. / Verb conjugation simplified.**
+- **Ton / resmiyet ayrımı kaldırıldı. / Tone / formality distinction removed.**
 
-- **Fiil çekimi sadeleştirildi.**  
-  Şahıs zamiri zorunlu hale getirildi. Fiil sadece tekil (`-a`) ve çoğul (`-an`) olarak ayrılır.  
-  Eski 6 şahıs çekimi (`amo, amas, amat...`) geçersizdir.
+### Yeni Özellikler / New Features
 
-- **Ton / resmiyet ayrımı kaldırıldı.**  
-  `non` ve `no` ayrımı yoktur; sadece `no` kullanılır.  
-  `vos` artık "saygılı siz" anlamı taşımaz; sadece çoğul "siz"dir. Tek hitap her zaman `tu`dur.
+- Düzenli zaman ekleri / Regular tense suffixes
+- Tekdüze çoğul yapımı / Uniform plural formation
+- Çekimsiz sıfatlar / Invariant adjectives
 
-### Yeni Özellikler
+### Eski Sürümler / Previous Versions
 
-- **Düzenli zaman ekleri:**  
-  - Şimdiki: `-a` / `-an`  
-  - Geçmiş: `-ava` / `-avan`  
-  - Gelecek: `-ara` / `-aran`
-
-- **Tekdüze çoğul yapımı:**  
-  - `-a` → `-as`  
-  - `-o, -u` → `-os`  
-  - Ünsüz → `-es`
-
-- **Çekimsiz sıfatlar:**  
-  `bonus`, `magnus`, `bellus` gibi sıfatlar tek formda kullanılır.
-
-### Eski Sürümler
-
-- **v1.0 — Klasik Hibrit:** Orijinal Latinol referans kitapçığı. Eril/dişil cinsiyet, 6 şahıs fiil çekimi, `non/no` ton ayrımı içeriyordu.
-
----
-
-**Sonraki sürüm hedefleri:**  
-- Karşılaştırma dereceleri (`-ior`, `-issimus` veya alternatif)  
-- Edat kısaltması (11 → 5 temel)  
-- Sayı sistemi revizyonu
+- **v1.0 — Klasik Hibrit / Classic Hybrid:** Orijinal Latinol referans kitapçığı. / Original Latinol reference booklet.
