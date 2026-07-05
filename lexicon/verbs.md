@@ -1,16 +1,16 @@
 # Fiiller / Verbs
 
-| Mastar | Anlam |
-|--------|-------|
-| amare | sevmek |
-| videre | görmek |
-| ire | gitmek |
-| venire | gelmek |
-| dicere | söylemek |
-| facere | yapmak |
-| esse | olmak |
-| habere | sahip olmak |
-| audire | duymak |
-| scire | bilmek |
-| currere | koşmak |
-| dormire | uyumak |
+| Mastar / Infinitive | Anlam / Meaning |
+|---------------------|-----------------|
+| amare | sevmek / to love |
+| videre | görmek / to see |
+| ire | gitmek / to go |
+| venire | gelmek / to come |
+| dicere | söylemek / to say |
+| facere | yapmak / to do |
+| esse | olmak / to be |
+| habere | sahip olmak / to have |
+| audire | duymak / to hear |
+| scire | bilmek / to know |
+| currere | koşmak / to run |
+| dormire | uyumak / to sleep |
