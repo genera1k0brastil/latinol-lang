@@ -1,46 +1,37 @@
 # Sıfatlar / Adjectives
 
-Latinol 2.0'da sıfatlar **çekimsizdir (invariant)**. Tek formda kullanılır; ismin sonuna veya cinsiyetine göre değişmez.
+Latinol 2.0'da sıfatlar **çekimsizdir (invariant)**. / Adjectives in Latinol 2.0 are **invariant**.
 
-## Kullanım
+## Kullanım / Usage
 
-&gt; **homo bonus** → iyi insan  
-&gt; **lunas clarus** → parlak aylar  
-&gt; **terras magnus** → büyük topraklar  
-&gt; **via longus** → uzun yol
+&gt; **homo bonus** → iyi insan / good human  
+&gt; **lunas clarus** → parlak aylar / bright moons
 
-## Temel Sıfat Listesi
+## Temel Sıfat Listesi / Basic Adjective List
 
-| Latinol | Anlam |
-|---------|-------|
-| bonus | iyi |
-| malus | kötü |
-| magnus | büyük |
-| parvus | küçük |
-| bellus | güzel |
-| fortis | güçlü |
-| novus | yeni |
-| altus | yüksek |
-| longus | uzun |
-| brevis | kısa |
-| clarus | parlak / aydınlık |
-| verus | gerçek |
-| calidus | sıcak |
-| frigidus | soğuk |
-| plenus | dolu |
-| vacuus | boş |
-| rapidus | hızlı |
-| tardus | yavaş |
-| dulcis | tatlı |
-| amarus | acı |
+| Latinol | Anlam / Meaning |
+|---------|-----------------|
+| bonus | iyi / good |
+| malus | kötü / bad |
+| magnus | büyük / big |
+| parvus | küçük / small |
+| bellus | güzel / beautiful |
+| fortis | güçlü / strong |
+| novus | yeni / new |
+| altus | yüksek / high |
+| longus | uzun / long |
+| brevis | kısa / short |
+| clarus | parlak / bright |
+| verus | gerçek / true |
+| calidus | sıcak / warm |
+| frigidus | soğuk / cold |
+| plenus | dolu / full |
+| vacuus | boş / empty |
+| rapidus | hızlı / fast |
+| tardus | yavaş / slow |
+| dulcis | tatlı / sweet |
+| amarus | acı / bitter |
 
-## Karşılaştırma (Yakında)
+## Karşılaştırma / Comparison (Yakında / Coming soon)
 
-Latinol 2.0'da karşılaştırma dereceleri henüz standartlaşmamıştır. Geçici olarak:
-
-- **Daha:** *magis* + sıfat  
-  *magis bonus* → daha iyi
-- **En:** *maxime* + sıfat  
-  *maxime bonus* → en iyi
-
-Kalıcı ekler üzerinde tartışma `#grammatica` kanalındadır.
+Geçici olarak / Temporary: *magis bonus* → daha iyi / better
