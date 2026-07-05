@@ -1,49 +1,52 @@
 # 🌙 Latinol
 
-**Latince · İspanyolca Hibrit Yapay Dil**  
-*A constructed language blending Latin and Spanish roots.*
+**Latince · İspanyolca Hibrit Yapay Dil** / *Latin · Spanish Hybrid Conlang*
 
 ---
 
 ## Hızlı Başlangıç / Quick Start
 
-| Türkçe | Latinol |
+| Türkçe | English | Latinol |
+|--------|---------|---------|
+| Merhaba | Hello | Salve! |
+| Nasılsın? | How are you? | Quomodo tu esa? |
+| Teşekkürler | Thank you | Gratias! |
+| Evet | Yes | Ita |
+| Hayır | No | No |
+
+---
+
+## Temel Özellikler / Core Features
+
+- **Cinsiyetsiz Gramer / Genderless Grammar** — İsimler ve sıfatlar tek formda / Nouns and adjectives are invariant.
+- **Sadeleştirilmiş Çekim / Simplified Conjugation** — Şimdiki zaman: `-a` (tekil) / `-an` (çoğul) / Present: `-a` (singular) / `-an` (plural).
+- **SOV Sırası / SOV Order** — Özne · Nesne · Fiil / Subject · Object · Verb.
+
+---
+
+## Dokümantasyon / Documentation
+
+| Türkçe | English |
 |--------|---------|
-| Merhaba | Salve! |
-| Nasılsın? | Quomodo tu esa? |
-| Teşekkürler | Gratias! |
-| Evet | Ita |
-| Hayır | No |
+| [Gramer / Grammar](docs/grammar.md) | [Sesler / Phonology](docs/phonology.md) |
+| [Sözdizimi / Syntax](docs/syntax.md) | [Değişiklikler / Changelog](docs/changelog.md) |
+| [Sözlük: İsimler / Nouns](lexicon/nouns.md) | [Sözlük: Fiiller / Verbs](lexicon/verbs.md) |
+| [Sözlük: Sıfatlar / Adjectives](lexicon/adjectives.md) | [Örnek Metinler / Texts](examples/texts.md) |
 
 ---
 
-## Temel Özellikler
+## Topluluk / Community
 
-- **Cinsiyetsiz gramer** — İsimler ve sıfatlar tek formda çekimlenir.
-- **Sadeleştirilmiş fiil çekimi** — Şimdiki zaman: `-a` (tekil) / `-an` (çoğul).
-- **SOV cümle sırası** — Özne · Nesne · Fiil.
-- **Düzenli zaman ekleri** — Geçmiş: `-ava`, Gelecek: `-ara`.
+💬 [Discord Sunucumuza Katıl / Join our Discord](https://discord.gg/XXXXX)  
+📦 [v2.0 Sürüm Notları / Release Notes](https://github.com/genera1k0brastil/latinol-lang/releases/tag/v2.0)
 
 ---
 
-## Dokümantasyon
+## Katkı / Contributing
 
-| Türkçe | İngilizce |
-|--------|-----------|
-| [Gramer](docs/grammar.md) | [Grammar](docs/grammar.md) |
-| [Sözlük: İsimler](lexicon/nouns.md) | [Lexicon: Nouns](lexicon/nouns.md) |
-| [Sözlük: Fiiller](lexicon/verbs.md) | [Lexicon: Verbs](lexicon/verbs.md) |
-| [Örnek Metinler](examples/texts.md) | [Example Texts](examples/texts.md) |
+Kelime önerileri, gramer düzeltmeleri ve çeviriler için Pull Request açabilirsiniz. / Feel free to open Pull Requests for word suggestions, grammar fixes, and translations.
 
----
-
-## Topluluk
-
-💬 [Discord Sunucumuza Katıl](https://discord.gg/VjpqYvf4X)   
-📦 [v2.0 Sürüm Notları](https://github.com/kullaniciadi/latinol-lang/releases/tag/v2.0)
-
----
-
+Vale! / Farewell!
 ## Katkı
 
 Kelime önerileri, gramer düzeltmeleri ve çeviriler için Pull Request açabilirsiniz.  
