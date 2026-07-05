@@ -1,20 +1,20 @@
 # İsimler / Nouns
 
-| Latinol | Anlam | Çoğul |
-|---------|-------|-------|
-| homo | insan | homos |
-| femina | kadın | feminas |
-| aqua | su | aquas |
-| ignis | ateş | ignises |
-| sol | güneş | solos |
-| luna | ay | lunas |
-| terra | toprak | terras |
-| via | yol | vias |
-| arbor | ağaç | arbores |
-| mare | deniz | mares |
-| silva | orman | silvas |
-| mons | dağ | monses |
-| ventus | rüzgar | ventos |
-| petra | taş | petras |
-| panis | ekmek | panises |
-| vinum | şarap | vinos |
+| Latinol | Anlam / Meaning | Çoğul / Plural |
+|---------|-----------------|----------------|
+| homo | insan / human | homos |
+| femina | kadın / woman | feminas |
+| aqua | su / water | aquas |
+| ignis | ateş / fire | ignises |
+| sol | güneş / sun | solos |
+| luna | ay / moon | lunas |
+| terra | toprak / earth | terras |
+| via | yol / road | vias |
+| arbor | ağaç / tree | arbores |
+| mare | deniz / sea | mares |
+| silva | orman / forest | silvas |
+| mons | dağ / mountain | monses |
+| ventus | rüzgar / wind | ventos |
+| petra | taş / stone | petras |
+| panis | ekmek / bread | panises |
+| vinum | şarap / wine | vinos |
