@@ -38,7 +38,7 @@
 ## Topluluk / Community
 
 💬 [Discord Sunucumuza Katıl / Join our Discord](https://discord.gg/XXXXX)  
-📦 [v2.0 Sürüm Notları / Release Notes](https://github.com/genera1k0brastil/latinol-lang/releases/tag/v2.0)
+📦 [v2.0 Sürüm Notları / Release Notes](https://github.com/genera1k0brastil/latinol-lang/tree/main)
 
 ---
 
