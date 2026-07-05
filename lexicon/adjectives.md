@@ -35,3 +35,15 @@ Latinol 2.0'da sıfatlar **çekimsizdir (invariant)**. / Adjectives in Latinol 2
 ## Karşılaştırma / Comparison (Yakında / Coming soon)
 
 Geçici olarak / Temporary: *magis bonus* → daha iyi / better
+
+---
+
+## Zarflar / Adverbs
+
+Çekimsizdirler. Sıfatın veya fiilin önüne gelir. / Invariant. Placed before adjectives or verbs.
+
+| Latinol | Anlam / Meaning |
+|---------|-----------------|
+| valde | çok / very |
+| paulum | az / a little |
+| nimis | fazla / too much |
