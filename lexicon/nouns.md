@@ -18,3 +18,9 @@
 | petra | taş / stone | petras |
 | panis | ekmek / bread | panises |
 | vinum | şarap / wine | vinos |
+
+| hiems | kış / winter | hiemes |
+| nix | kar / snow | nives |
+| frigus | soğuk / cold | friguses |
+| glacies | buz / ice | glacies |
+| calor | sıcaklık / heat | calores |
