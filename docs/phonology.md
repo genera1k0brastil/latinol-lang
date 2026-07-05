@@ -1,54 +1,32 @@
 # Fonoloji / Phonology
 
-Latinol 2.0, 5 ünlü ve 17 ünsüzden oluşan dengeli bir ses sistemine sahiptir. Amaç, hem Latince'nin ağırlığını hem İspanyolca'nın akıcılığını korumaktır.
+Latinol 2.0, 5 ünlü ve 17 ünsüzden oluşan dengeli bir ses sistemine sahiptir. / Latinol 2.0 has a balanced sound system of 5 vowels and 17 consonants.
 
-## Ünlüler (Vowels)
+## Ünlüler / Vowels
 
-| Harf | IPA | Örnek | Not |
-|------|-----|-------|-----|
-| a | /a/ | aqua | Açık, düz |
-| e | /e/ | esse | Yarı kapalı, ön |
-| i | /i/ | ignis | Kapalı, ön |
-| o | /o/ | homo | Yarı kapalı, arka |
-| u | /u/ | unus | Kapalı, arka |
+| Harf / Letter | IPA | Örnek / Example | Not / Note |
+|---------------|-----|-----------------|------------|
+| a | /a/ | aqua | Açık, düz / Open, front |
+| e | /e/ | esse | Yarı kapalı, ön / Mid-close, front |
+| i | /i/ | ignis | Kapalı, ön / Close, front |
+| o | /o/ | homo | Yarı kapalı, arka / Mid-close, back |
+| u | /u/ | unus | Kapalı, arka / Close, back |
 
-## Ünsüzler (Consonants)
+## Ünsüzler / Consonants
 
-| Harf | IPA | Örnek | Not |
-|------|-----|-------|-----|
-| b | /b/ | bonus | Bildiğimiz b |
-| d | /d/ | dicere | Bildiğimiz d |
-| f | /f/ | fortis | Bildiğimiz f |
-| g | /g/ | gaudere | Her zaman /g/, asla /dʒ/ değil |
-| h | /h/ | habere | Her zaman okunur, sessiz değil |
-| j | /j/ | jam | Yumuşak y (İspanyolca "yo" gibi) |
-| k | /k/ | kappa | Nadiren kullanılır; c yerine |
-| l | /l/ | luna | Bildiğimiz l |
-| m | /m/ | mare | Bildiğimiz m |
-| n | /n/ | novus | Bildiğimiz n |
-| p | /p/ | panis | Bildiğimiz p |
-| q | /k/ | quid | u ile birlikte /kw/ |
-| r | /ɾ/ | arbor | Tek titreşimli, İspanyolca r |
-| s | /s/ | sol | Her zaman /s/, asla /z/ değil |
-| t | /t/ | terra | Bildiğimiz t |
-| w | /w/ | — | Nadiren; v tercih edilir |
+| Harf / Letter | IPA | Örnek / Example | Not / Note |
+|---------------|-----|-----------------|------------|
+| b | /b/ | bonus | Bildiğimiz b / Standard b |
+| c | /k/ | clarus | Her zaman /k/ / Always /k/ |
+| h | /h/ | habere | Her zaman okunur / Always pronounced |
+| v | /v/ | ventus | Dişli-dudak /v/ / Labiodental v |
+| ni | /ɲ/ | niño | canyon'daki ny / Like Spanish ñ |
+| rr | /r/ | carrus | Çift titreşimli / Trilled |
+| x | /ks/ | extra | ekstra'daki ks / Like extra |
+| z | /ts/ | zephyrus | Hafif ts / Light ts |
 
-## Özel Ünsüzler
+## Telaffuz Kuralları / Pronunciation Rules
 
-| Harf | IPA | Kaynak | Örnek | Not |
-|------|-----|--------|-------|-----|
-| c | /k/ | Latince | clarus | Her zaman /k/; ce, ci bile /ke/, /ki/ |
-| v | /v/ | Latince | ventus | Dişli-dudak /v/; b'den ayrı |
-| ni | /ɲ/ | İspanyolca | niño | canyon'daki "ny" sesi |
-| rr | /r/ | İspanyolca | carrus | Çift titreşimli, güçlü r |
-| x | /ks/ | Latince | extra | ekstra'daki ks |
-| z | /ts/ | Hibrit | zephyrus | Hafif ts sesi |
-
-## Telaffuz Kuralları
-
-- **Vurgu:** Sözcüğün son hecesine düşer (penultimate değil, ultimate).  
-  *a-QUA* (su), *ho-MO* (insan), *lu-NA* (ay)
-- **Çift ünlü:** Her ünlü ayrı hece olarak okunur.  
-  *au-a* değil, *a-u-a* (aqua = a-ku-a)
-- **C + e/i:** Latince geleneğine sadık kalınır; /ke/, /ki/ şeklinde okunur.  
-  *cen-tum* = /kentum/, *ci-vis* = /kivis/
+- **Vurgu / Stress:** Sözcüğün son hecesine düşer / Falls on the final syllable.
+- **Çift ünlü / Diphthongs:** Her ünlü ayrı hece / Each vowel is a separate syllable.
+- **C + e/i:** /ke/, /ki/ şeklinde / Pronounced as /ke/, /ki/.
