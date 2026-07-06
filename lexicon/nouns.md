@@ -23,3 +23,8 @@
 | frigus | soğuk / cold | friguses |
 | glacies | buz / ice | glacies |
 | calor | sıcaklık / heat | calores |
+| aestas | yaz / summer | aestases |
+| flos | çiçek / flower | floses |
+| fructus | meyve / fruit | fructuses |
+| umbra | gölge / shadow | umbras |
+| meridies | öğle / midday | meridieses |
