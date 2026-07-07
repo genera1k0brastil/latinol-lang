@@ -28,3 +28,8 @@
 | fructus | meyve / fruit | fructuses |
 | umbra | gölge / shadow | umbras |
 | meridies | öğle / midday | meridieses |
+| ver | ilkbahar / spring | veres |
+| flos | çiçek / flower | floses |
+| germen | tomurcuk / bud | germenes |
+| pratum | çayır / meadow | prata |
+| ros | çiğ / dew | roses |
