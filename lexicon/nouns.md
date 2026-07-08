@@ -33,3 +33,4 @@
 | germen | tomurcuk / bud | germenes |
 | pratum | çayır / meadow | prata |
 | ros | çiğ / dew | roses |
+| domo | ev / house | domos |
