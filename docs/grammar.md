@@ -12,6 +12,12 @@ Detaylı ses bilgisi için [phonology.md](phonology.md) dosyasına bakınız. / 
 | -o, -u | -os | homo → homos |
 | Ünsüz / Consonant | -es | mons → monses |
 
+> **Not / Note:** Çoğul sadece iki gruba ayrılır. / Plural has only two groups.
+> - Açık ünlüler / Open vowels (-a, -o, -u) → -as, -os
+> - Kapalı ünlüler ve ünsüzler / Closed vowels & consonants → -es
+>
+> `-u` ile bitenler / Words ending in -u: `sol` → `solos`, `vinum` → `vinos`
+
 ## 3. Fiil Çekimi / Verb Conjugation
 
 Şahıs zamiri zorunludur. / Subject pronoun is mandatory.  
@@ -34,3 +40,31 @@ Fiil sadece tekil/çoğul ayrılır. / Verb distinguishes only singular and plur
 Tek olumsuz: **no** (fiilin önüne gelir) / Single negation: **no** (placed before the verb)
 
 &gt; eo terram no ama → Ben toprağı sevmem. / I do not love the earth.
+
+## 6. Temel Edatlar / Basic Prepositions
+
+| Latinol | Anlam / Meaning | Örnek / Example |
+|---------|-----------------|-----------------|
+| in | içinde / in | in silva → in the forest |
+| ad | -e doğru / toward | ad lunam → toward the moon |
+| de | hakkında / about | de aqua → about water |
+| per | boyunca / through | per viam → through the road |
+| cum | ile birlikte / with | cum homine → with a human |
+| sine | olmadan / without | sine aqua → without water |
+| ante | önce / before | ante solem → before the sun |
+| post | sonra / after | post lunam → after the moon |
+| inter | arasında / between | inter homines → between humans |
+| contra | karşı / against | contra ignem → against fire |
+| pro | için / for | pro terra → for earth |
+| sub | altında / under | sub luna → under the moon |
+
+## 7. Sıfat Sırası / Adjective Placement
+
+Çekimsiz sıfatlar olduğu için sıra esnektir. / Invariant adjectives allow flexible order.
+
+| Sıra / Order | Kullanım / Usage | Örnek / Example |
+|--------------|------------------|-----------------|
+| İsim öncesi / Before noun | Vurgu, şiirsel / Emphasis, poetic | bonus homo → good human |
+| İsim sonrası / After noun | Tanım, bilgi / Description | homo bonus → human, good one |
+
+Pratikte her iki sıra da geçerlidir. / Both orders are valid in practice.
