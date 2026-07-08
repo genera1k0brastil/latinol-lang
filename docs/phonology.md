@@ -18,12 +18,31 @@ Latinol 2.0, 5 ünlü ve 17 ünsüzden oluşan dengeli bir ses sistemine sahipti
 |---------------|-----|-----------------|------------|
 | b | /b/ | bonus | Bildiğimiz b / Standard b |
 | c | /k/ | clarus | Her zaman /k/ / Always /k/ |
+| d | /d/ | dicere | Bildiğimiz d / Standard d |
+| f | /f/ | fortis | Bildiğimiz f / Standard f |
+| g | /g/ | gaudere | Her zaman /g/ / Always /g/ |
 | h | /h/ | habere | Her zaman okunur / Always pronounced |
-| v | /v/ | ventus | Dişli-dudak /v/ / Labiodental v |
-| ni | /ɲ/ | niño | canyon'daki ny / Like Spanish ñ |
-| rr | /r/ | carrus | Çift titreşimli / Trilled |
-| x | /ks/ | extra | ekstra'daki ks / Like extra |
+| j | /j/ | jam | Yumuşak y / Soft y (like "yes") |
+| k | /k/ | kappa | Nadiren kullanılır / Rarely used |
+| l | /l/ | luna | Bildiğimiz l / Standard l |
+| m | /m/ | mare | Bildiğimiz m / Standard m |
+| n | /n/ | novus | Bildiğimiz n / Standard n |
+| p | /p/ | panis | Bildiğimiz p / Standard p |
+| q | /kw/ | quid | u ile birlikte / With u as /kw/ |
+| r | /ɾ/ | arbor | Tek titreşimli / Single tap (Spanish "pero") |
+| s | /s/ | sol | Her zaman /s/ / Always /s/ |
+| t | /t/ | terra | Bildiğimiz t / Standard t |
+| v | /v/ | ventus | Dişli-dudak / Labiodental v |
+| w | /w/ | — | Nadiren kullanılır / Rarely used |
+| x | /ks/ | extra | ekstra'daki ks / Like "extra" |
 | z | /ts/ | zephyrus | Hafif ts / Light ts |
+
+## Özel Ünsüzler / Special Consonants
+
+| Harf / Letter | IPA | Kaynak / Origin | Örnek / Example | Not / Note |
+|---------------|-----|-----------------|-----------------|------------|
+| ni | /ɲ/ | İspanyolca / Spanish | niño | canyon'daki ny / Like Spanish ñ |
+| rr | /r/ | İspanyolca / Spanish | carrus | Çift titreşimli / Trilled (Spanish "perro") |
 
 ## Telaffuz Kuralları / Pronunciation Rules
 
