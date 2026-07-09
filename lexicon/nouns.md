@@ -34,3 +34,4 @@
 | pratum | çayır / meadow | prata |
 | ros | çiğ / dew | roses |
 | domo | ev / house | domos |
+| regio | bölge / region | regiones |
