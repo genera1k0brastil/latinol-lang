@@ -3,6 +3,7 @@
 | Latinol | Anlam / Meaning | Çoğul / Plural |
 |---------|-----------------|----------------|
 | homo | insan / human | homos |
+| vir | erkek / man | viri |
 | femina | kadın / woman | feminas |
 | aqua | su / water | aquas |
 | ignis | ateş / fire | ignises |
