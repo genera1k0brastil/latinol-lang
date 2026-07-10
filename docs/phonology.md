@@ -46,6 +46,21 @@ Latinol 2.0, 5 ünlü ve 17 ünsüzden oluşan dengeli bir ses sistemine sahipti
 
 ## Telaffuz Kuralları / Pronunciation Rules
 
-- **Vurgu / Stress:** Sözcüğün son hecesine düşer / Falls on the final syllable.
+### Vurgu / Stress
+
+Latinol 2.1'den itibaren vurgu kuralı değişmiştir. / Stress rule updated from Latinol 2.1.
+
+| Sonuç / Ending | Vurgu / Stress | Örnek / Example | Not |
+|----------------|----------------|-----------------|-----|
+| -a, -o, -u | Sondan bir önceki / Penultimate | **LU**-na, **HO**-mo, **TER**-ra | En yaygın / Most common |
+| -e | Son hece / Final | ma-**RE** | İstisna / Exception |
+| Ünsüz / Consonant | Son hece / Final | **MONS**, **AR**-bor | Kısa kelimeler / Short words |
+
+**Eski kural (v2.0):** Tüm kelimeler son heceye vurgu (`lu-NA`). Artık geçersiz. / Old rule (v2.0): All words stressed on final syllable. Now obsolete.
+
+### Diğer Kurallar / Other Rules
+
 - **Çift ünlü / Diphthongs:** Her ünlü ayrı hece / Each vowel is a separate syllable.
+  - *aqua* = **A**-kua (3 hece / 3 syllables)
 - **C + e/i:** /ke/, /ki/ şeklinde / Pronounced as /ke/, /ki/.
+  - *cen-tum* = /**KEN**-tum/
