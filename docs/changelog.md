@@ -1,5 +1,13 @@
 # Değişiklik Günlüğü / Changelog
 
+## v2.1 — Vurgu Değişikliği / Stress Update (2026-07-10)
+
+### Kırılan Değişiklikler / Breaking Changes
+- **Vurgu kuralı değişti.** / Stress rule changed.
+  - `-a, -o, -u` ile bitenler: sondan bir önceki hece / penultimate
+  - `-e` ve ünsüzle bitenler: son hece / final
+  - Eski kural (v2.0): her kelime son heceye vurgu / Old rule: all words final stress
+
 ## v2.0 — Nötrleştirilmiş Çekim / Neutralized Conjugation (2026-07-04)
 
 ### Kırılan Değişiklikler / Breaking Changes
