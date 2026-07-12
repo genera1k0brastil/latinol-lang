@@ -4,7 +4,20 @@
 
 Detaylı ses bilgisi için [phonology.md](phonology.md) dosyasına bakınız. / See [phonology.md](phonology.md) for detailed sound inventory.
 
-## 2. Çoğul Yapımı / Plural Formation
+## 2. Basit Zamirler / Basic Pronouns
+
+| Şahıs / Person | Özne / Subject | Anlam / Meaning |
+|----------------|----------------|-----------------|
+| 1. tek / 1st sg | eo | ben / I |
+| 2. tek / 2nd sg | tu | sen / you |
+| 3. tek / 3rd sg | elo / ela | o / he / she |
+| 1. çoğul / 1st pl | nos | biz / we |
+| 2. çoğul / 2nd pl | vos | siz / you (pl) |
+| 3. çoğul / 3rd pl | ellos / ellas | onlar / they |
+
+**Not / Note:** `elo` ve `ela` cinsiyet belirtmez; "o" anlamında kullanılır. / `elo` and `ela` do not indicate gender; both mean "he/she/it".
+
+## 3. Çoğul Yapımı / Plural Formation
 
 | Sonuç / Ending | Çoğul / Plural | Örnek / Example |
 |----------------|----------------|-----------------|
@@ -18,7 +31,7 @@ Detaylı ses bilgisi için [phonology.md](phonology.md) dosyasına bakınız. / 
 >
 > `-u` ile bitenler / Words ending in -u: `sol` → `solos`, `vinum` → `vinos`
 
-## 3. Fiil Çekimi / Verb Conjugation
+## 4. Fiil Çekimi / Verb Conjugation
 
 Şahıs zamiri zorunludur. / Subject pronoun is mandatory.  
 Fiil sadece tekil/çoğul ayrılır. / Verb distinguishes only singular and plural.
@@ -29,19 +42,19 @@ Fiil sadece tekil/çoğul ayrılır. / Verb distinguishes only singular and plur
 | Geçmiş / Past | -ava | -avan | eo amava |
 | Gelecek / Future | -ara | -aran | eo amara |
 
-## 4. Cümle Sırası / Sentence Order
+## 5. Cümle Sırası / Sentence Order
 
 **SOV:** Özne — Nesne — Fiil / Subject — Object — Verb
 
 &gt; homo lunam ama → Adam ayı sever. / The human loves the moon.
 
-## 5. Olumsuzluk / Negation
+## 6. Olumsuzluk / Negation
 
 Tek olumsuz: **no** (fiilin önüne gelir) / Single negation: **no** (placed before the verb)
 
 &gt; eo terram no ama → Ben toprağı sevmem. / I do not love the earth.
 
-## 6. Temel Edatlar / Basic Prepositions
+## 7. Temel Edatlar / Basic Prepositions
 
 | Latinol | Anlam / Meaning | Örnek / Example |
 |---------|-----------------|-----------------|
@@ -58,7 +71,7 @@ Tek olumsuz: **no** (fiilin önüne gelir) / Single negation: **no** (placed bef
 | pro | için / for | pro terra → for earth |
 | sub | altında / under | sub luna → under the moon |
 
-## 7. Sıfat Sırası / Adjective Placement
+## 8. Sıfat Sırası / Adjective Placement
 
 Çekimsiz sıfatlar olduğu için sıra esnektir. / Invariant adjectives allow flexible order.
 
