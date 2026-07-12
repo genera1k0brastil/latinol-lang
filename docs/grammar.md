@@ -33,14 +33,50 @@ Detaylı ses bilgisi için [phonology.md](phonology.md) dosyasına bakınız. / 
 
 ## 4. Fiil Çekimi / Verb Conjugation
 
-Şahıs zamiri zorunludur. / Subject pronoun is mandatory.  
-Fiil sadece tekil/çoğul ayrılır. / Verb distinguishes only singular and plural.
+Latinol 2.1'den itibaren fiil çekimi 6 şahıs olarak dönmüştür. / Verb conjugation returned to 6 persons from Latinol 2.1.
 
-| Zaman / Tense | Tekil / Singular | Çoğul / Plural | Örnek (ama) / Example (ama) |
-|---------------|------------------|----------------|----------------------------|
-| Şimdiki / Present | -a | -an | eo ama / nos aman |
-| Geçmiş / Past | -ava | -avan | eo amava |
-| Gelecek / Future | -ara | -aran | eo amara |
+### Şimdiki Zaman / Present Tense
+
+| Şahıs / Person | amare (sevmek) | videre (görmek) | ire (gitmek) |
+|----------------|----------------|-----------------|--------------|
+| eo (ben/I) | amo | video | eo |
+| tu (sen/you) | amas | vides | is |
+| elo/ela (o/he/she) | amat | videt | it |
+| nos (biz/we) | amamus | videmus | imus |
+| vos (siz/you pl) | amatis | videtis | itis |
+| ellos/ellas (onlar/they) | amant | vident | eunt |
+
+### Geçmiş Zaman / Past Tense
+
+| Şahıs / Person | amare | videre | ire |
+|----------------|-------|--------|-----|
+| eo | amavi | videvi | ii |
+| tu | amavas | videvas | isti |
+| elo/ela | amavat | videvat | iit |
+| nos | amavamus | videvmus | iimus |
+| vos | amavatis | videvtis | iitis |
+| ellos/ellas | amavant | videvant | ieunt |
+
+### Gelecek Zaman / Future Tense
+
+| Şahıs / Person | amare | videre | ire |
+|----------------|-------|--------|-----|
+| eo | amabo | videbo | ibo |
+| tu | amabis | videbis | ibis |
+| elo/ela | amabit | videbit | ibit |
+| nos | amabimus | videbimus | ibimus |
+| vos | amabitis | videbitis | ibitis |
+| ellos/ellas | amabunt | videbunt | ibunt |
+
+### Düzensiz Fiiller / Irregular Verbs
+
+| Mastar / Infinitive | eo (ben) | tu (sen) | elo/ela (o) | Anlam / Meaning |
+|---------------------|----------|----------|-------------|-----------------|
+| esse | sum | es | est | olmak / to be |
+| habere | habeo | habes | habet | sahip olmak / to have |
+| posse | possum | potes | potest | yapabilmek / to be able |
+
+&gt; **Not / Note:** Düzensiz fiiller sadece en temel 3-5 fiille sınırlıdır. / Irregular verbs limited to only 3-5 most basic verbs.
 
 ## 5. Cümle Sırası / Sentence Order
 
