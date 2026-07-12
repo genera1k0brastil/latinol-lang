@@ -1,3 +1,16 @@
+## v2.1.0-beta — 6 Şahıs Çekimi / Full Conjugation (2026-07-12)
+
+### Kırılan Değişiklikler / Breaking Changes
+- **Fiil çekimi 6 şahısa döndü.** / Verb conjugation returned to 6 persons.
+  - Eski kural (v2.0): sadece tekil/çoğul ayrımı. / Old rule: only singular/plural.
+  - Yeni kural: amo, amas, amat, amamus, amatis, amant. / New rule: full 6-person conjugation.
+  - Neden: Latince estetiği korumak ve conlang topluluğuyla uyum. / Reason: preserve Latin aesthetic and conlang community standards.
+
+### Yeni Özellikler / New Features
+- Geçmiş zaman: -avi, -avas, -avat... / Past tense: -avi, -avas, -avat...
+- Gelecek zaman: -abo, -abis, -abit... / Future tense: -abo, -abis, -abit...
+- Düzensiz fiiller: esse, habere, posse / Irregular verbs: esse, habere, posse
+
 # Değişiklik Günlüğü / Changelog
 
 ## v2.1 — Vurgu Değişikliği / Stress Update (2026-07-10)
