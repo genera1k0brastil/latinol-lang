@@ -36,3 +36,8 @@
 | ros | çiğ / dew | roses |
 | domo | ev / house | domos |
 | regio | bölge / region | regiones |
+| autumnus | sonbahar / autumn | autumnuses |
+| folium | yaprak / leaf | folia |
+| ventus | rüzgar / wind | ventos |
+| messis | hasat / harvest | messises |
+| nebula | sis / fog | nebulas |
