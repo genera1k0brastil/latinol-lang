@@ -117,3 +117,17 @@ Tek olumsuz: **no** (fiilin önüne gelir) / Single negation: **no** (placed bef
 | İsim sonrası / After noun | Tanım, bilgi / Description | homo bonus → human, good one |
 
 Pratikte her iki sıra da geçerlidir. / Both orders are valid in practice.
+
+## Durumlar / Cases
+
+Latinol'da **durum sistemi yoktur.** / No case system in Latinol.
+
+| İşlev / Function | Latince / Latin | Latinol |
+|------------------|-----------------|---------|
+| Özne / Subject | nominativus | homo (aynı form) |
+| Nesne / Object | accusativus | homo (aynı form) |
+| İyelik / Possession | genitivus | de homo |
+| Yönelme / Direction | dativus | ad homo |
+| Araç / Instrument | ablativus | cum homo |
+
+Edatlar (prepositions) durumların işlevini üstlenir. / Prepositions replace case functions.
