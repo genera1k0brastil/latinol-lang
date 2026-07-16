@@ -14,3 +14,5 @@
 | scire | bilmek / to know |
 | currere | koşmak / to run |
 | dormire | uyumak / to sleep |
+| debere | meli / must, owe | debent (3. çoğul) |
+| nascere | doğmak / to be born | nascitur (3. tekil) |
