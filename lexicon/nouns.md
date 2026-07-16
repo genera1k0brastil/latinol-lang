@@ -41,3 +41,5 @@
 | ventus | rüzgar / wind | ventos |
 | messis | hasat / harvest | messises |
 | nebula | sis / fog | nebulas |
+| ius | hak / right | iura |
+| razion | akıl / reason | raziones |
