@@ -16,3 +16,6 @@
 | dormire | uyumak / to sleep |
 | debere | meli / must, owe | debent (3. çoğul) |
 | nascere | doğmak / to be born | nascitur (3. tekil) |
+| pugnare | dövüşmek / to fight | pugnat |
+| vincere | yenmek / to win | vincit |
+| defendere | savunmak / to defend | defendit |
