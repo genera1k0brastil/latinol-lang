@@ -43,3 +43,8 @@
 | nebula | sis / fog | nebulas |
 | ius | hak / right | iura |
 | razion | akıl / reason | raziones |
+| bellum | savaş / war | bella |
+| gladius | kılıç / sword | gladii |
+| scutum | kalkan / shield | scuta |
+| hostis | düşman / enemy | hostes |
+| victoria | zafer / victory | victorias |
