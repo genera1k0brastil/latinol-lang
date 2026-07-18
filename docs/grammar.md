@@ -106,6 +106,7 @@ Tek olumsuz: **no** (fiilin önüne gelir) / Single negation: **no** (placed bef
 | contra | karşı / against | contra ignem → against fire |
 | pro | için / for | pro terra → for earth |
 | sub | altında / under | sub luna → under the moon |
+| super | üstünde / on | super silvam → ormanın üstünde |
 
 ## 8. Sıfat Sırası / Adjective Placement
 
