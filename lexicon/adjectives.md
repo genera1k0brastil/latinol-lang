@@ -47,3 +47,4 @@ Geçici olarak / Temporary: *magis bonus* → daha iyi / better
 | valde | çok / very |
 | paulum | az / a little |
 | nimis | fazla / too much |
+| iam | artık / anymore |
