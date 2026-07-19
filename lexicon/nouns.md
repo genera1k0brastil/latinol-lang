@@ -48,3 +48,4 @@
 | scutum | kalkan / shield | scuta |
 | hostis | düşman / enemy | hostes |
 | victoria | zafer / victory | victorias |
+| verum | doğru / truth | vera |
