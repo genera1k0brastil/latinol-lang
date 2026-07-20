@@ -49,3 +49,8 @@
 | hostis | düşman / enemy | hostes |
 | victoria | zafer / victory | victorias |
 | verum | doğru / truth | vera |
+| iustitia | adalet / justice | iustitias |
+| lex | kanun / law | leges |
+| index | yargıç / judge | indices |
+| crimen | suç / crime | crimina |
+| poena | ceza / punishment | poenas |
