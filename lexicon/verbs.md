@@ -22,3 +22,4 @@
 | iudicare | yargılamak / to judge | iudicat |
 | punire | cezalandırmak / to punish | punit |
 | defendere | savunmak / to defend | defendit |
+
