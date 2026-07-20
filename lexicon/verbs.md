@@ -19,3 +19,6 @@
 | pugnare | dövüşmek / to fight | pugnat |
 | vincere | yenmek / to win | vincit |
 | defendere | savunmak / to defend | defendit |
+| iudicare | yargılamak / to judge | iudicat |
+| punire | cezalandırmak / to punish | punit |
+| defendere | savunmak / to defend | defendit |
