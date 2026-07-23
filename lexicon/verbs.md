@@ -22,4 +22,6 @@
 | iudicare | yargılamak / to judge | iudicat |
 | punire | cezalandırmak / to punish | punit |
 | defendere | savunmak / to defend | defendit |
-
+| sanare | iyileştirmek / to heal | sanat |
+| dolere | acımak / to hurt | dolet |
+| curare | tedavi etmek / to treat | curat |
