@@ -54,3 +54,8 @@
 | index | yargıç / judge | indices |
 | crimen | suç / crime | crimina |
 | poena | ceza / punishment | poenas |
+| sanitas | sağlık / health | sanitates |
+| morbus | hastalık / disease | morbi |
+| medicus | doktor / doctor | medici |
+| vulnus | yara / wound | vulnera |
+| remedium | ilaç / remedy | remedia |
